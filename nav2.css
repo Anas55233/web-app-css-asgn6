@@ -1,0 +1,156 @@
+.navbar2-container {
+    color: white;
+    margin-bottom: 50px;
+}
+
+.navbar2-container6 {
+    color: black;
+    margin-bottom: 50px;
+}
+
+.navbar2-box {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0px auto;
+    padding: 15px;
+}
+.navbar2-container1-box {
+
+    border: 1px solid #D6E3EC;
+    background-color: #019787;
+}
+
+
+.navbar2-container2-box {
+
+    border: 1px solid #D6E3EC;
+    background-color: #880E4F;
+}
+
+
+.navbar2-container3-box {
+    border: 1px solid #D6E3EC;
+    background-color: #00BCD4;
+}
+
+.navbar2-container4-box {
+    border: 1px solid #D6E3EC;
+    background-color: #AB47BC;
+}
+
+.navbar2-container5-box {
+    border: 1px solid #D6E3EC;
+    background-color: #3F51B5;
+}
+
+.navbar2-container6-box {
+    border: 1px solid #D6E3EC;
+    background-color: #F8BBD0;
+}
+
+.navbar2-container7-box {
+    border: 1px solid #D6E3EC;
+    background-color: #D32F2F;
+}
+
+.navbar2-container8-box {
+    border: 1px solid #D6E3EC;
+    background-color: #1C2331;
+}
+
+.logo-navbar {
+    font-size: 22px;
+    margin-right: 50px;
+}
+
+.icon-img1 {
+    width: 20px;
+    margin-left: 20px;
+}
+
+.icon-img2 {
+    width: 20px;
+    margin-right: 5px;
+    padding-top: 4px;
+}
+
+.icon-img3{
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+
+.input-search {
+    width: 150px;
+    height: 25px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    font-size: large;
+    background-color: #019787;
+    color: white;
+
+}
+
+.input-search2 {
+    width: 150px;
+    height: 25px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: large;
+    background-color: #F8BBD0;
+    color: black;
+    margin-left: 5px;
+
+}
+
+.input-search3 {
+    width: 150px;
+    height: 25px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    font-size: large;
+    background-color: #D32F2F;
+    color: black;
+    margin-left: 5px;
+}
+
+
+.items3 ul li {
+    margin-left: 40px;
+    margin-right: 0px;
+
+}
+
+.items4 ul li {
+    margin-left: 20px;
+    margin-right: 0px;
+
+}
+
+.items5 ul li {
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+.input-search2::placeholder {
+    color: black;
+}
+::placeholder {
+    color: white;
+}
+
+.search-btn {
+    background-color: #D32F2F;
+    color: white;
+    margin-left: 10px;
+    border: 1px solid white;
+    padding: 2px 10px;
+}
+
+
